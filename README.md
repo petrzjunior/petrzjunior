@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Petr</h1>
 <h3 align="center">A backend developer, DevOps magician and AI student from Czechia</h3>
 
-- 🔭 I’m currently working on **payment system for NFCtron Pay**
+- 🔭 I’m currently working on **payment system for tapaya.**
 
 - ✍️ My technologies of choice are **C#, Rust, Docker, Kubernetes**
 
